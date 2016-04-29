@@ -2,6 +2,6 @@ import React from 'react';
 
 export default class Knight extends React.Component {
 	render() {
-		return <span>H</span>
+		return <span>♘</span>
 	}
 }

@@ -13,7 +13,9 @@ export default class Square extends React.Component {
 				width: '100%',
 				height: '100%',
 				fontSize: '300%',
-				textAlign: 'center'
+				textAlign: 'center',
+				verticalAlign: 'middle',
+				lineHeight: '100%',
 			}}>
 				{ this.props.children }
 			</div>
