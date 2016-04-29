@@ -1,0 +1,27 @@
+{
+  "name": "board-game",
+  "version": "1.0.0",
+  "description": "board game",
+  "main": "js/index.jsx",
+  "scripts": {
+    "test": "echo \\\\\\\"Error: no test specified\\\\\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReactExperiment/Game.git"
+  },
+  "author": "Dd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ReactExperiment/Game/issues"
+  },
+  "homepage": "https://github.com/ReactExperiment/Game#readme",
+  "dependencies": {
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.6.0",
+    "babel-preset-react": "^6.5.0",
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1",
+    "webpack": "^1.13.0"
+  }
+}
